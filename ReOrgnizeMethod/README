@@ -1,5 +1,6 @@
 Extract Method
 Inline Method
+Inline Temp
 Replace Temp with Query
 Split Temporary Variable
 Replace with Method Object
